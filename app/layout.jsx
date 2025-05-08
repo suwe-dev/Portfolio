@@ -7,6 +7,9 @@ export const metadata = {
   solving complex problems. Explore my projects and experience.",
   keywords: "Suwethan M, Software Engineer, Portfolio, Java, Spring Boot, React, Node.js, Software Development, \
   Scalable Applications, Problem Solving, Projects, Experience",
+  icons: {
+    icon: "/favicon.png",
+  }
 };
 
 export default function RootLayout({ children }) {
